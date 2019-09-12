@@ -1,0 +1,14 @@
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\bin\Debug\netcoreapp2.2\CocShop.Data.deps.json
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\bin\Debug\netcoreapp2.2\CocShop.Data.dll
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\obj\Debug\netcoreapp2.2\CocShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\obj\Debug\netcoreapp2.2\CocShop.Data.AssemblyInfoInputs.cache
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\obj\Debug\netcoreapp2.2\CocShop.Data.AssemblyInfo.cs
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\obj\Debug\netcoreapp2.2\CocShop.Data.csprojAssemblyReference.cache
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\bin\Debug\netcoreapp2.2\CocShop.Model.dll
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\bin\Debug\netcoreapp2.2\CocShop.Data.runtimeconfig.json
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\bin\Debug\netcoreapp2.2\CocShop.Data.runtimeconfig.dev.json
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\bin\Debug\netcoreapp2.2\CocShop.Data.pdb
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\bin\Debug\netcoreapp2.2\CocShop.Model.pdb
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\obj\Debug\netcoreapp2.2\CocShop.Data.csproj.CopyComplete
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\obj\Debug\netcoreapp2.2\CocShop.Data.dll
+C:\Users\vyykh\source\repos\CocShopProject\CocShop.Data\obj\Debug\netcoreapp2.2\CocShop.Data.pdb

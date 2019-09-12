@@ -1,0 +1,322 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShopProject\\CocShopProject.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Data\\CocShop.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Data\\CocShop.Data.csproj",
+        "projectName": "CocShop.Data",
+        "projectPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Data\\CocShop.Data.csproj",
+        "packagesPath": "C:\\Users\\vyykh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vyykh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Model\\CocShop.Model.csproj": {
+                "projectPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Model\\CocShop.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Model\\CocShop.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Model\\CocShop.Model.csproj",
+        "projectName": "CocShop.Model",
+        "projectPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Model\\CocShop.Model.csproj",
+        "packagesPath": "C:\\Users\\vyykh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vyykh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Service\\CocShop.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Service\\CocShop.Service.csproj",
+        "projectName": "CocShop.Service",
+        "projectPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Service\\CocShop.Service.csproj",
+        "packagesPath": "C:\\Users\\vyykh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vyykh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Data\\CocShop.Data.csproj": {
+                "projectPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Data\\CocShop.Data.csproj"
+              },
+              "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Model\\CocShop.Model.csproj": {
+                "projectPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Model\\CocShop.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShopProject\\CocShopProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShopProject\\CocShopProject.csproj",
+        "projectName": "CocShopProject",
+        "projectPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShopProject\\CocShopProject.csproj",
+        "packagesPath": "C:\\Users\\vyykh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShopProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vyykh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Data\\CocShop.Data.csproj": {
+                "projectPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Data\\CocShop.Data.csproj"
+              },
+              "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Model\\CocShop.Model.csproj": {
+                "projectPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Model\\CocShop.Model.csproj"
+              },
+              "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Service\\CocShop.Service.csproj": {
+                "projectPath": "C:\\Users\\vyykh\\source\\repos\\CocShopProject\\CocShop.Service\\CocShop.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "HangFire": {
+              "target": "Package",
+              "version": "[1.7.6, )"
+            },
+            "Mapster": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.SignalR": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[11.20.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
